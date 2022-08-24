@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adnan Khan Khadukhel
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning TDD and DevOps.
 - 💞️ I’m looking to collaborate on openSource libraries related to time
 - 📫 please contact me on adnankhankhadukhel@gmail.com or Whatsapp on +923119111763
 
