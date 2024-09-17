@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Adnan Khan Khadukhel** ![wave-gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# 👋 Hello, I'm **Adnan Khan Khadukhel**
 
 🚀 **Backend Developer | Software Engineer | Open Source Enthusiast**  
 
