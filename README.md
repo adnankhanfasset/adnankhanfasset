@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Adnan Khan Khadukhel**
 
-🚀 **Backend Developer | Software Engineer | Open Source Enthusiast**  
+🚀 **Backend Developer | Software Engineer
 
 🌱 Currently diving deep into **WEB3** & **DevOps**  
 💻 Passionate about writing clean, scalable, and efficient code.  
